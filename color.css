@@ -1,0 +1,57 @@
+body
+{
+	background-color: #bbbbbb;
+	color: black;
+}
+
+div
+{
+	background-color: #bbbbbb;
+	color: black;
+}
+
+nav
+{
+	background-color: #f0f0f0;
+	color: black;
+}
+
+p 
+{ 
+    background-color: #ffffcc;
+	color: #000000;
+}
+
+div ul li
+{
+	color:blue;
+}
+
+footer p small
+{
+	background-color: white
+}
+
+.intro 
+{ 
+    background-color: #ccccff;
+	color: black;
+}
+
+.important
+{
+	background-color: black;
+	color: yellow;
+}
+
+#title 
+{ 
+    background-color: #dddddd;
+	color: black;
+}
+
+#Slogan
+{
+	color: white;
+	background-color: green;
+}
